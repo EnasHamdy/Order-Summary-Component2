@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-- [Desktop Design](design\desktop-design.jpg)
+- [Desktop Design](https://github.com/EnasHamdy/Order-Summary-Component2/blob/main/design/desktop-design.jpg)
 - [Active state when -Change- is clicked](design\active-state-change.jpg)
 - [Active state when -Proceed to Payment- button is clicked](design\active-state-proceed-button.jpg)
 - [Active state when -Cancel- Order button is clicked](design\active-state-cancel-button.jpg)
